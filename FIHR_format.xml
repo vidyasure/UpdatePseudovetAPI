@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<patient>
+	<identifier></identifier>
+	<active></active>
+	<name></name>
+	<telecom></telecom>
+	<gender></gender>
+	<birthdate></birthdate>
+	<deceased>
+		<status></status>
+		<time></time>	
+	</deceased>
+	<address></address>
+	<maritalstatus></maritalstatus>
+	<multiplebirth>
+		<mbbirth></mbbirth>
+		<mbint></mbint>
+	</multiplebirth>
+	<photo></photo>
+	<contact>
+		<relation></relation>
+		<name></name>
+		<telecom></telecom>
+		<address></address>
+		<gender></gender>
+		<organization></oraganization>
+		<period></period>
+	</contact>
+	<animal>
+		<species></species>
+		<breed></breed>
+		<genderstatus></genderstatus>
+	</animal>
+	<communication>
+		<language></language>
+		<preferred></preferred>
+	</communication>
+	<generalpractictioner></generalpractitioner>
+	<managingorganization></managingorganization>
+	<link>
+		<other></other>
+		<type></type>
+	</link>
+	
+	
+	
+</patient>
